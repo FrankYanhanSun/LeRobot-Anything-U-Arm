@@ -176,7 +176,7 @@ We welcome contributions! Here's how you can help:
 
 ## 🔧 Order Link
 If you are tired of DIY, buy it on [JD 京东链接](https://item.jd.com/10170154240149.html) or contact business@evomind-tech.com for purchase.
-Please note your Robotic Arm brand and model. 下单/咨询请注明使用的机械臂具体品牌型号。如有技术问题需要解答，请通过下方二维码进入社区群里咨询，不建议在京东上咨询。
+Please note your Robotic Arm brand and model. 下单/咨询请注明使用的机械臂具体品牌型号。如有技术问题需要解答，请通过下方二维码进入社区群里咨询，京东上不便于回答讨论详细技术问题。
 
 
 ## 👥 Contributors
