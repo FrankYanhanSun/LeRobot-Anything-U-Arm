@@ -189,9 +189,11 @@ Please note your Robotic Arm brand and model. 下单/咨询请注明使用的机
 - **Yanwen Zou** - Hardware&Software System Design
 - **Zhaoye Zhou** - Hareware Assemble and Adjustment
 - **Chenyang Shi** - SAPIEN and website setup
+- **Yanhan Sun** - Feetech Version Design
 - **Jiaqi Lu** - Real-world Experiment
 - **Zewei Ye** - Real-world Experiment
 - **Jie Yi** - Real-world Experiment
+- **Siyuan Wang, Lixing Zou** - Hardware Assemble
 - **Junda Huang** - Idea Discussion and website setup
 - **Gaotian Wang** - Idea Discussion
 
