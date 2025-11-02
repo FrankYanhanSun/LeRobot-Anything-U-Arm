@@ -194,6 +194,7 @@ Please note your Robotic Arm brand and model. 下单/咨询请注明使用的机
 - **Yanhan Sun** - Feetech Version Design
 - **Jiaqi Lu** - Real-world Experiment
 - **Jie Yi** - Real-world Experiment
+- **Nuobei Zhu** - Hardware and Production Optimization 
 - **Siyuan Wang, Lixing Zou** - Hardware Assemble
 - **Junda Huang** - Idea Discussion and website setup
 - **Gaotian Wang** - Idea Discussion
